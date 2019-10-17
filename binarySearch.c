@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 void binarysearch(int *a,int f,int r,int e);
 int main()
 {
